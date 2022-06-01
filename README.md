@@ -1,7 +1,8 @@
-- 👋 Hi, We're @caduceus-dev developing team.
-- 👀 Caduceus is interested specially in 
-     android app development.
-- 📫 Contact info:
-     E-mail: caduceusdevco@gmail.com
-     Phone#: +989928698636
+- Hi, We're @caduceus-dev developing team,
+     consisting of 👨🏻‍⚕️ medical students.
+- Caduceus is interested in android app
+     development in the field of 🩺 medicine,
+     health, 🎓 education, utilities, & ... .
+- Contact info:
+     📧 E-mail: caduceusdevco@gmail.com
 
